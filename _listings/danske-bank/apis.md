@@ -1,18 +1,18 @@
 ---
 name: Danske Bank
 x-slug: danske-bank
-description: "Danske Bank is a Danish bank whose name also literally translates into
+description: Danske Bank is a Danish bank whose name also literally translates into
   Danish Bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek-
-  og Vexelbank i Kj\xF8benhavn (The Danish Farmers Bank, Mortgage and Exchange Bank
-  of Copenhagen). Headquartered in Copenhagen, it is the largest bank in Denmark and
+  og Vexelbank i Kjbenhavn (The Danish Farmers Bank, Mortgage and Exchange Bank of
+  Copenhagen). Headquartered in Copenhagen, it is the largest bank in Denmark and
   a major retail bank in the northern European region with over 5 million retail customers.
-  Danske Bank was number 454 on the Fortune Global 500 list for 2011."
+  Danske Bank was number 454 on the Fortune Global 500 list for 2011.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
 x-kinRank: "7"
 x-alexaRank: "55813"
 tags: Danske Bank
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-25"
+modified: "2018-05-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/apis.md
 specificationVersion: "0.14"
 apis:
@@ -83,12 +83,12 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/unsecuredsmeloans-get-openapi.md
 - name: Danske Bank
   x-api-slug: danske-bank
-  description: "Danske Bank is a Danish bank whose name also literally translates
-    into Danish Bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek-
-    og Vexelbank i Kj\xF8benhavn (The Danish Farmers Bank, Mortgage and Exchange Bank
+  description: Danske Bank is a Danish bank whose name also literally translates into
+    Danish Bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek-
+    og Vexelbank i Kjbenhavn (The Danish Farmers Bank, Mortgage and Exchange Bank
     of Copenhagen). Headquartered in Copenhagen, it is the largest bank in Denmark
     and a major retail bank in the northern European region with over 5 million retail
-    customers. Danske Bank was number 454 on the Fortune Global 500 list for 2011."
+    customers. Danske Bank was number 454 on the Fortune Global 500 list for 2011.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
   humanURL: https://danskebank.com
   baseURL: https://obp-data.danskebank.com/open-banking/v2.1/

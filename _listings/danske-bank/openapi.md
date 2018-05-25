@@ -4,7 +4,7 @@ x-collection-name: Danske Bank
 x-complete: 1
 info:
   title: Danske Bank
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-danske-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-danske-bank-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist
