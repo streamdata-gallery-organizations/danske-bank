@@ -5,7 +5,7 @@ description: This is a repository of danske bank APIs, self-contained as a Githu
   operations.
 image: http://template.streamdata.gallery/assets/danske-bank.png
 created: "2018-02-24"
-modified: "2018-05-25"
+modified: "2018-06-20"
 url: http://danske-bank.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []

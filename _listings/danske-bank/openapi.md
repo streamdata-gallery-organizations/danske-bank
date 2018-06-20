@@ -31,7 +31,7 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Atms
   branches/:
     get:
       summary: Get Branches
@@ -43,7 +43,7 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Branches
   personal-current-accounts/:
     get:
       summary: Get Current Personal Accounts
@@ -55,7 +55,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Personal
+      - Current
+      - Accounts
   business-current-accounts/:
     get:
       summary: Get Current Business Accounts
@@ -67,7 +69,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Business
+      - Current
+      - Accounts
   unsecured-sme-loans/:
     get:
       summary: Get Unsecured SME Loans
@@ -79,5 +83,7 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Unsecured
+      - Sme
+      - Loans
 ---

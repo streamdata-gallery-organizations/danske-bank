@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-dans
 x-kinRank: "7"
 x-alexaRank: "55813"
 tags: Danske Bank
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,7 +23,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
   humanURL: https://danskebank.com
   baseURL: https://obp-data.danskebank.com/open-banking/v2.1//atms/
-  tags: ~
+  tags: Atms
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/atms-get-postman.md
@@ -36,7 +36,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
   humanURL: https://danskebank.com
   baseURL: https://obp-data.danskebank.com/open-banking/v2.1//branches/
-  tags: ~
+  tags: Branches
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/branches-get-postman.md
@@ -49,7 +49,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
   humanURL: https://danskebank.com
   baseURL: https://obp-data.danskebank.com/open-banking/v2.1//personal-current-accounts/
-  tags: ~
+  tags: Personal,Current,Accounts
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/personalcurrentaccounts-get-postman.md
@@ -62,7 +62,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
   humanURL: https://danskebank.com
   baseURL: https://obp-data.danskebank.com/open-banking/v2.1//business-current-accounts/
-  tags: ~
+  tags: Business,Current,Accounts
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/businesscurrentaccounts-get-postman.md
@@ -75,7 +75,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg
   humanURL: https://danskebank.com
   baseURL: https://obp-data.danskebank.com/open-banking/v2.1//unsecured-sme-loans/
-  tags: ~
+  tags: Unsecured,Sme,Loans
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/danske-bank/master/_listings/danske-bank/unsecuredsmeloans-get-postman.md

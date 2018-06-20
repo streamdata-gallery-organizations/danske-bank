@@ -32,7 +32,7 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Atms
   branches/:
     get:
       summary: Get Branches
@@ -44,7 +44,7 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Branches
   personal-current-accounts/:
     get:
       summary: Get Current Personal Accounts
@@ -56,7 +56,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Personal
+      - Current
+      - Accounts
   business-current-accounts/:
     get:
       summary: Get Current Business Accounts
@@ -68,7 +70,9 @@ paths:
         200:
           description: OK
       tags:
-      - ""
+      - Business
+      - Current
+      - Accounts
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0
